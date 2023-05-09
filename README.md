@@ -1,4 +1,7 @@
-### Hi there 👋
+# Good Evening! 👋
+
+**'Upcoming IT Worker (Developer/Creator/Scholar)'**
+
 
 <!--
 **TLuu52/TLuu52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
