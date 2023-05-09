@@ -2,7 +2,7 @@
 
 I am a graduate who is soon going to be starting my IT Careerpath!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thuan+Luu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Thuan+Luu)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TLuu52)](https://git.io/streak-stats)
 
