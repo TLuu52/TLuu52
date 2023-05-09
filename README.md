@@ -1,6 +1,8 @@
 # Good Evening! 👋
 
-**'Upcoming IT Worker (Developer/Creator/Scholar)'**
+I am a graduate who is soon going to be starting my IT Careerpath!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TLuu52)](https://git.io/streak-stats)
 
 
 <!--
