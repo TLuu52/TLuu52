@@ -1,6 +1,5 @@
 # Good Evening! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Thuan+Luu)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://github.com/TLuu52?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TLuu52?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -9,7 +8,7 @@
   </a>
 </p>
 
-I am a graduate who is soon going to be starting my IT Careerpath! 
+I am a recent graduate who is now pursuing a career inside of the IT field! I am quite passionate about my work and I am open to learning and figuring out stuff if needed within the work enviroment.
 
 ----
 
@@ -55,13 +54,16 @@ I am a graduate who is soon going to be starting my IT Careerpath!
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TLuu52's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TLuu52&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TLuu52's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLuu52&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
-
   
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TLuu52's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=TLuu52&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+  
+<h3>🏆 GitHub Trophies and 👁️ Profile Views</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tluu52&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="tluu52" /></a> </p>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tluu52&label=Profile%20views&color=0e75b6&style=flat" alt="tluu52" /> </p>
 
 <!--
 **TLuu52/TLuu52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
