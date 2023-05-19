@@ -1,5 +1,4 @@
-# Good Evening! 👋
-
+# About Me 😊
 <p align="center">
   <a href="https://github.com/TLuu52?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TLuu52?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -7,13 +6,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TLuu52?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
-
 I am a recent graduate who is now pursuing a career inside of the IT field! I am quite passionate about my work and I am open to learning and figuring out stuff if needed within the work enviroment.
 
 ----
-
 🧰 Languages and Tools
-
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a></a>
@@ -42,7 +38,6 @@ I am a recent graduate who is now pursuing a career inside of the IT field! I am
 
 </p>
 
-----
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/TLuu52/github-readme-streak-stats">
