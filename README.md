@@ -48,7 +48,7 @@ Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+ # 💻 GitHub Profile Stats
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TLuu52's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TLuu52&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TLuu52's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLuu52&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
