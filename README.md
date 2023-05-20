@@ -63,7 +63,7 @@ Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tluu52&label=Profile%20views&color=0e75b6&style=flat" alt="tluu52" /> </p>
 
 # 📲 Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TLuu52)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuan-luu-b000a2196/)
 
 <!--
 **TLuu52/TLuu52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
