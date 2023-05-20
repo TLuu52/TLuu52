@@ -10,7 +10,7 @@
 Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career inside of the IT field! I am quite passionate about my work and I am open to learning and figuring out stuff if needed within the work enviroment.
 
 ----
-<h3>🧰 Languages, Tools, and Databases Used</h3>
+# 🧰 Languages, Tools, and Databases Used
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a></a>
@@ -41,7 +41,7 @@ Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career
 
 </p>
 
-  <h3>🔥 Streak Stats</h3>
+  # 🔥 Streak Stats 
   <p>
     <a href="https://github.com/TLuu52/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TLuu52's streak" src="https://streak-stats.demolab.com/?user=TLuu52&theme=monokai-metallian&hide_border=true"/>
@@ -57,11 +57,13 @@ Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TLuu52's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=TLuu52&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-  
-<h3>🏆 GitHub Trophies and 👁️ Profile Views</h3>
+# 🏆 GitHub Trophies and 👁️ Profile Views
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tluu52&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="tluu52" /></a> </p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tluu52&label=Profile%20views&color=0e75b6&style=flat" alt="tluu52" /> </p>
+
+# 📲 Contact Information
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TLuu52)
 
 <!--
 **TLuu52/TLuu52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
