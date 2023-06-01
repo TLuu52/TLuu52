@@ -55,7 +55,6 @@ Hi my name is Thuan Luu, and I am a recent graduate who is now pursuing a career
   
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TLuu52's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=TLuu52&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 # 🏆 GitHub Trophies and 👁️ Profile Views
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tluu52&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="tluu52" /></a> </p>
